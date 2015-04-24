@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters>
+
+	<parameter name="randomSeed" displayName="Default random seed" type="int" defaultValue="__NULL__" />
+	<parameter name="noPrey" displayName="Number of prey" type="int" defaultValue="45" />
+	<parameter name="noPredators" displayName="Number of predators" type="int" defaultValue="10" />
+	<parameter name="grassRegrowth" displayName="Grass regroth time" type="int" defaultValue="100" />
+	<parameter name="preyReproduce" displayName="Prey reproduction rate" type="int" defaultValue="50" />
+	<parameter name="predatorReproduce" displayName="Predator reproduction rate" type="int" defaultValue="5" />
+
+</parameters>
